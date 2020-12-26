@@ -2,7 +2,7 @@
 
 I completed codeacademy's Golang course and created 3 projects.
 
-                                                                                  ,-.----.                                                             
+                                                                                ,-.----.                                                             
 		,-.----.                    ___      ,---,                        \    /  \                                                    ___     
 		\    /  \                 ,--.'|_  ,--.' |                        |   :    \                                                 ,--.'|_   
 		;   :    \          ,--,  |  | :,' |  |  :                        |   |  .\ :  __  ,-.   ,---.      .--.                     |  | :,'  
@@ -16,7 +16,7 @@ I completed codeacademy's Golang course and created 3 projects.
 		:   : :-'  :  ,      .-./ |  ,   / |  | ,'    '--'.     /         |   | :     ---'      `----'.'__/\_: ||   :    ||   :    : |  ,   /  
 		|   |.'     `--`----'      ---`-'  `--''        `--'---'          `---'.|                     |   :    : \   \  /  \   \  /   ---`-'   
 		`---'                                                               `---`                      \   \  /   `----'    `----'             
-																										                                                                                 `--`-'                                 
+																										                                                                               `--`-'                                 
 ## Project 1
 For my first project I used Go to print some ASCII art.
 
